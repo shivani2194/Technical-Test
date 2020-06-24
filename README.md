@@ -20,5 +20,5 @@ Then run "npm run cypress:open"
 Cypress UI should pop up and then click on "Run all spec"
   ```  bash
   npm init
-  npm run cypress:open
+  npm run test
   ```
