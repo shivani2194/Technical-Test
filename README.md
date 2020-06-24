@@ -10,7 +10,7 @@ javaScript(Mocha framework)
 
 ##Platform used to share the automation framework
 
-GitHub: 
+GitHub: https://github.com/shivani2194/Technical-Test
 
 ## Installation
 
